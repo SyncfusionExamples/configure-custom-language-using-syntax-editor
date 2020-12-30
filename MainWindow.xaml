@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SyntaxEditor_CustomLanguage"
-        xmlns:interactivity="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:interactivity="http://schemas.microsoft.com/xaml/behaviors"
         xmlns:syncfusion="http://schemas.syncfusion.com/wpf" 
         syncfusion:SfSkinManager.Theme="{syncfusion:SkinManagerExtension ThemeName=MaterialDark}"
         xmlns:system="clr-namespace:System;assembly=mscorlib"
